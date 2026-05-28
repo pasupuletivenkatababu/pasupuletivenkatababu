@@ -5,7 +5,7 @@
   <br/>
   💡 I build scalable, clean & production-ready web applications
   <br/>
-  📍 Andhra Pradesh, India | 📫 Open to Work
+  📍 Telangana, India | 📫 Open to Work
 </p>
 
 ---
