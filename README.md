@@ -1,83 +1,173 @@
-<h1 align="center">Hi, I'm Venkata Babu 👋</h1>
+<h1 align="center">Hi 👋, I'm Pasupuleti Venkata Babu</h1>
+
+<h3 align="center">
+Full Stack Developer | React Developer | Python & Flask Developer
+</h3>
 
 <p align="center">
-  🐍 Python Full Stack Developer
-  <br/>
-  💡 I build scalable, clean & production-ready web applications
-  <br/>
-  📍 Andhra Pradesh, India | 📫 Open to Work
+Passionate about building responsive web applications and AI-powered solutions. I enjoy solving real-world problems through clean, user-friendly, and practical software development.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 🔙 Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-DRF-red?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### 🔜 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+- 🎓 B.Tech Graduate
+- 💼 Aspiring Software Engineer
+- 🌱 Continuously improving my skills in Full Stack Development and Artificial Intelligence
+- 🚀 Interested in Web Development, Python, React, and AI-based applications
+- 📍 Telangana, India
+- 💬 Open to Software Developer and Full Stack Developer opportunities
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+- React.js
+
+### Backend
+- Flask
+
+### Database
+- SQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Resume Analyzer
+
+A web application developed using Python and Flask that analyzes resumes and provides ATS-friendly feedback.
+
+**Technologies**
+- Python
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 Live Demo  
+https://ai-resume-analyzer-peach-mu.vercel.app
+
+---
+
+## 💻 Laptop Service World
+
+A responsive laptop repair service website designed to provide users with service information through a clean and modern interface.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 Live Demo  
+https://laptop-service-world.vercel.app
+
+---
+
+## 💻 Laptop Repair Service
+
+A responsive React application built using reusable components and modern UI practices.
+
+**Technologies**
+- React.js
+- JavaScript
+- CSS3
+
+---
+
+## 📱 Mobile Repair Service
+
+A responsive doorstep mobile repair service website built with modern web technologies.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 Live Demo  
+https://mobile-repair-service-door-to-door.vercel.app
+
+---
+
+## 💰 Monthly Expense Tracker
+
+A web application for tracking daily and monthly expenses with a clean user interface.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 Live Demo  
+https://monthly-expensive-khaki.vercel.app
+
+---
+
+## 📝 ToDo List
+
+A simple task management application that allows users to create, edit, complete, and delete tasks.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🧮 Modern Calculator
+
+A responsive calculator supporting arithmetic operations and percentage calculations.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasupuletivenkatababu&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasupuletivenkatababu&theme=tokyonight" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pasupuletivenkatababu&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=pasupuletivenkatababu&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletivenkatababu&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletivenkatababu&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Career Objective
 
-| Project | Description | Tech Stack | Live |
-|---------|-------------|------------|------|
-| 🛒 E-Commerce App | Full stack shopping platform with auth & payments | Django, React, PostgreSQL | [Demo](#) |
-| ✅ Task Manager | REST API based task manager with JWT auth | Django REST, React | [Demo](#) |
-| 💻 Laptop Repair Service | Service booking website | React, JS | [Demo](#) |
-| 🧮 Calculator App | Modern calculator with real-time results | HTML, CSS, JS | [Demo](#) |
+I am seeking an opportunity as a Software Engineer or Full Stack Developer where I can contribute to meaningful projects, continue learning modern technologies, and grow as a software professional.
 
 ---
 
-## 📬 Connect With Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
----
-
-## 💡 What I'm Currently Doing
-- 🔭 Building a full stack project with Django + React
-- 🌱 Learning Docker & deployment on AWS
-- 👯 Looking to collaborate on Python/Django projects
-- 💬 Ask me about Python, Django, REST APIs, React
+- 💼 LinkedIn: https://www.linkedin.com/in/pasupuletivenkatababu
+- 💻 GitHub: https://github.com/pasupuletivenkatababu
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasupuletivenkatababu&color=blue" alt="Profile views"/>
-</p>
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!
